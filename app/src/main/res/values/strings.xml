@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowIP</string>
+    <string name="ip">Текущий IP: %1$s</string>
+</resources>
